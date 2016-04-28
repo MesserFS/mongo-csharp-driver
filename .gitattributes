@@ -1,4 +1,4 @@
 *.docx binary
 *.dll binary
 *.snk binary
-*.cs linguist-vendored
+* linguist-vendored
